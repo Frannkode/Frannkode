@@ -1,26 +1,105 @@
-<h1 align="center">⚡ Frannkode</h1>
-<h3 align="center">Fullstack Developer | UI/UX Focus | Clean Code Advocate</h3>
+<!-- HEADER ANIMADO -->
+<h1 align="center">⚡ FRANNKODE ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Clean+Code+Enthusiast;Modern+UI%2FUX+Builder;Future+Senior+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Performance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Scalable-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🚀 Fullstack Developer building scalable digital products.  
+🎯 Focused on performance, architecture & clean design.  
+🧠 Always improving system design & real-world solutions.  
+💼 Open to serious clients & high-level teams.
+
+I don’t just write code.  
+I build experiences.
+
+---
+
+# 🛠 Tech Arsenal
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+## ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,mysql" />
+</p>
+
+## 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 Project One
+Modern web application focused on performance and scalability.  
+🔗 Live Demo  
+📦 Repository  
+
+## 🔥 Project Two
+Fullstack solution with authentication and clean architecture.  
+🔗 Live Demo  
+📦 Repository  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frannkode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frannkode&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frannkode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+# 🧠 Current Goals
+
+- 🚀 Work with international clients  
+- 💎 Build production-level systems  
+- 🧩 Master scalable architecture  
+- ⚡ Level up to Senior Engineer  
+
+---
+
+# 📬 Contact
 
 <p align="center">
   <a href="mailto:poncefrancomiguel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/tecfrancoponce">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://frannkode.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-```ts
-const frannkode = {
-  role: "Fullstack Developer",
-  focus: ["Modern Web Apps", "UI/UX", "Performance"],
-  mindset: "Build scalable, clean and aesthetic solutions",
-  currentGoal: "Working with serious companies & high-value clients",
-};
+<p align="center">
+  ⚡ Building. Learning. Scaling. ⚡
+</p>
