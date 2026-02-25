@@ -1,14 +1,13 @@
 <!-- HEADER ANIMADO -->
 <h1 align="center">⚡ FRANNKODE ⚡</h1>
 
-<h1 align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=E33FF7&vCenter=true&width=435&lines=Full+Stack+Developer;Clean+Code;Scalable+Systems;RESTful+APIs;Performance+Optimizer)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Clean-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-Performance-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Scalable-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
-</p><h1 align="center">
+</p>
   
 </h1>
 
