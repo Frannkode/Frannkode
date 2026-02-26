@@ -1,31 +1,44 @@
-<!-- HEADER ANIMADO -->
+<!-- ======================= HEADER ======================= -->
+
 <h1 align="center">⚡ FRANNKODE ⚡</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=E33FF7&vCenter=true&width=435&lines=Full+Stack+Developer;Clean+Code;Scalable+Systems;RESTful+APIs;Performance+Optimizer)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Performance-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Scalable-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Scalable+Systems+Architect;Clean+Code+Advocate;Performance+Focused+Engineer;Building+Production+Ready+Software" />
 </p>
-  
-</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalability-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Performance-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-orange?style=for-the-badge" />
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Fullstack Developer building scalable digital products.  
-🎯 Focused on performance, architecture & clean design.  
-🧠 Always improving system design & real-world solutions.  
-💼 Open to serious clients & high-level teams.
+🚀 Full Stack Developer focused on building **scalable, maintainable and production-ready systems**.  
+🧠 Passionate about **clean architecture, system design & real-world problem solving**.  
+⚡ Obsessed with performance optimization and user experience.  
+💼 Open to freelance projects & serious development teams.
 
-I don’t just write code.  
-I build experiences.
+> I don’t just write code.  
+> I engineer scalable digital solutions.
 
 ---
 
-# 🛠 Tech Arsenal
+# 🧩 Core Expertise
+
+- RESTful API Development  
+- Authentication & Authorization Systems  
+- Scalable Backend Architecture  
+- Modern Responsive UI  
+- Database Design & Optimization  
+- Performance Tuning  
+
+---
+
+# 🛠 Tech Stack
 
 ## 🎨 Frontend
 <p>
@@ -37,7 +50,12 @@ I build experiences.
   <img src="https://skillicons.dev/icons?i=nodejs,cs,mysql" />
 </p>
 
-## 🔧 Tools
+## 🗄 Database & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## 🔧 Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
@@ -46,13 +64,27 @@ I build experiences.
 
 # 🚀 Featured Projects
 
-## 🔥 Project One
-Modern web application focused on performance and scalability.  
+## 🔥 Production System
+Fullstack web system with authentication, clean architecture and scalable backend.
+
+- ⚡ Optimized queries
+- 🔐 Secure authentication
+- 🧩 Modular structure
+- 📈 Performance oriented
+
 🔗 Live Demo  
 📦 Repository  
 
-## 🔥 Project Two
-Fullstack solution with authentication and clean architecture.  
+---
+
+## 🔥 Modern Web Application
+Responsive frontend with high-performance backend integration.
+
+- 💎 Clean UI
+- 🚀 Fast loading
+- 📱 Fully responsive
+- 🛠 API integration
+
 🔗 Live Demo  
 📦 Repository  
 
@@ -74,16 +106,17 @@ Fullstack solution with authentication and clean architecture.
 
 ---
 
-# 🧠 Current Goals
+# 🎯 2026 Goals
 
-- 🚀 Work with international clients  
-- 💎 Build production-level systems  
-- 🧩 Master scalable architecture  
-- ⚡ Level up to Senior Engineer  
+- 🌎 Work with international clients  
+- 🏗 Build large-scale production systems  
+- 🧠 Master advanced system design  
+- 💼 Join or build an elite dev team  
+- ⚡ Transition to Senior Full Stack Engineer  
 
 ---
 
-# 📬 Contact
+# 📬 Contact & Links
 
 <p align="center">
   <a href="mailto:poncefrancomiguel@gmail.com">
@@ -100,5 +133,5 @@ Fullstack solution with authentication and clean architecture.
 ---
 
 <p align="center">
-  ⚡ Building. Learning. Scaling. ⚡
+  ⚡ BUILDING • OPTIMIZING • SCALING ⚡
 </p>
