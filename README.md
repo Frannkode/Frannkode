@@ -126,6 +126,43 @@ problema de la forma más simple posible.
 
 ---
 
+### `$ man franco`
+
+```txt
+FRANCO(1)                  User Manuals                  FRANCO(1)
+
+NAME
+       franco - full-stack developer, ships things people use
+
+SYNOPSIS
+       franco [--stack js|ts|python|kotlin] [--freelance] [--coffee]
+
+DESCRIPTION
+       franco takes a real problem from a real business and turns
+       it into a working site or system: e-commerce, WhatsApp
+       ordering, inventory management, restaurant menus.
+
+       Currently running under the LUN project, on Scrum, with
+       tickets tracked in Jira.
+
+OPTIONS
+       --stack      print current tech stack and exit
+       --freelance  accept external contract work
+       --coffee     required dependency, not optional
+
+BUGS
+       Occasionally over-engineers a solution before remembering
+       the KISS principle.
+
+SEE ALSO
+       linkedin(1), github(1), portfolio(1)
+
+AUTHOR
+       Written by franco ponce.
+```
+
+---
+
 ### `$ ./stats.sh`
 
 <p align="center">
