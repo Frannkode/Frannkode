@@ -71,8 +71,6 @@
 | **Restaurant El Cruce** | Sitio para un restaurant real (Reconquista, Santa Fe) con menú interactivo, carrito y pedidos por WhatsApp | `React` `Vite` `Tailwind CSS` | [Demo](https://elcruce.vercel.app) · [Repo](https://github.com/Frannkode/ElCruceRestaurant) |
 | **Vicio's Burger** | Menú de delivery mobile-first, cards tipo app con carrito y pedido automático por WhatsApp | `React` `Vite` | [Demo](https://viciosburgerr.vercel.app) · [Repo](https://github.com/Frannkode/ReactVicios) |
 
-> Tenés otras 2 versiones de Vicio's Burger (`ViciosBurger`, `ViciosBurgerApp`) — dejé la más reciente (`ReactVicios`). Avisame si preferís otra.
-
 ---
 
 ## GitHub Analytics
@@ -139,8 +137,7 @@
   <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_UID&cover_image=true&theme=default&show_offline=false&background_color=ffffff" /></p>
 
   ## Coding Time (WakaTime)
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  (sección gestionada por la GitHub Action de WakaTime, usa los marcadores de sección START_SECTION:waka / END_SECTION:waka)
 
   ## LeetCode
   <p align="center"><img src="https://leetcard.jacoblin.cool/TU_USUARIO?theme=light&font=JetBrains%20Mono&ext=activity" /></p>
