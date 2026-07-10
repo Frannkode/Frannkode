@@ -52,7 +52,7 @@ problema de la forma más simple posible.
 <tr>
 <td valign="top" width="50%">
 
-**Frontend**
+`Frontend`
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -62,7 +62,7 @@ problema de la forma más simple posible.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Backend & Data**
+`Backend & Data`
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -75,13 +75,13 @@ problema de la forma más simple posible.
 </td>
 <td valign="top" width="50%">
 
-**Mobile**
+`Mobile`
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
-**Tools & Workflow**
+`Tools & Workflow`
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -100,12 +100,12 @@ problema de la forma más simple posible.
 
 | Proyecto | Qué hace | Stack | Links |
 |---|---|---|---|
-| 🛍️ **ATARAXIA** | E-commerce full-stack de indumentaria: pagos con MercadoPago, auth y panel de gestión de imágenes | `Next.js 16` `React 19` `TypeScript` `PostgreSQL/Drizzle` `Tailwind v4` | [Repo](https://github.com/Frannkode/ATARAXIA) |
-| 📲 **QuickOrder** | Pedidos por WhatsApp para distribuidores: catálogo, precios mayorista/minorista, sync en tiempo real | `React` `TypeScript` `Firebase` | [Demo](https://quick-order-beta.vercel.app) · [Repo](https://github.com/Frannkode/QuickOrder) |
-| 🏍️ **Valen Motoshop** | Gestión de stock y ventas para una casa de repuestos de motos: POS + dashboard | `React` `TypeScript` | [Demo](https://moto-partes.vercel.app) · [Repo](https://github.com/Frannkode/MotoPartes) |
-| 🥤 **Full Bebidas** | Tienda online de bebidas con catálogo y carrito | `React 19` `Vite` `TypeScript` | [Demo](https://full-bebidas.vercel.app) · [Repo](https://github.com/Frannkode/FullBebidas) |
-| 🍽️ **Restaurant El Cruce** | Sitio para un restaurant real (Reconquista, Santa Fe): menú interactivo, carrito y pedidos por WhatsApp | `React` `Vite` `Tailwind CSS` | [Demo](https://elcruce.vercel.app) · [Repo](https://github.com/Frannkode/ElCruceRestaurant) |
-| 🍔 **Vicio's Burger** | Menú de delivery mobile-first, cards tipo app con carrito y pedido automático por WhatsApp | `React` `Vite` | [Demo](https://viciosburgerr.vercel.app) · [Repo](https://github.com/Frannkode/ReactVicios) |
+| 🛍️ `ATARAXIA` | `E-commerce full-stack de indumentaria: pagos con MercadoPago, auth y panel de gestión de imágenes` | `Next.js 16` `React 19` `TypeScript` `PostgreSQL/Drizzle` `Tailwind v4` | [Repo](https://github.com/Frannkode/ATARAXIA) |
+| 📲 `QuickOrder` | `Pedidos por WhatsApp para distribuidores: catálogo, precios mayorista/minorista, sync en tiempo real` | `React` `TypeScript` `Firebase` | [Demo](https://quick-order-beta.vercel.app) · [Repo](https://github.com/Frannkode/QuickOrder) |
+| 🏍️ `Valen Motoshop` | `Gestión de stock y ventas para una casa de repuestos de motos: POS + dashboard` | `React` `TypeScript` | [Demo](https://moto-partes.vercel.app) · [Repo](https://github.com/Frannkode/MotoPartes) |
+| 🥤 `Full Bebidas` | `Tienda online de bebidas con catálogo y carrito` | `React 19` `Vite` `TypeScript` | [Demo](https://full-bebidas.vercel.app) · [Repo](https://github.com/Frannkode/FullBebidas) |
+| 🍽️ `Restaurant El Cruce` | `Sitio para un restaurant real (Reconquista, Santa Fe): menú interactivo, carrito y pedidos por WhatsApp` | `React` `Vite` `Tailwind CSS` | [Demo](https://elcruce.vercel.app) · [Repo](https://github.com/Frannkode/ElCruceRestaurant) |
+| 🍔 `Vicio's Burger` | `Menú de delivery mobile-first, cards tipo app con carrito y pedido automático por WhatsApp` | `React` `Vite` | [Demo](https://viciosburgerr.vercel.app) · [Repo](https://github.com/Frannkode/ReactVicios) |
 
 ---
 
@@ -132,11 +132,13 @@ problema de la forma más simple posible.
 
 ### `$ cat roadmap_2026.md`
 
-- [x] Sumar clientes internacionales, no solo locales
-- [x] Meterme más a fondo en backend y arquitectura de sistemas
-- [x] Cerrar un proyecto mobile propio en Kotlin de punta a punta
-- [x] Aportar a algún proyecto open source
-- [ ] Dar el salto a un rol Full Stack Senior
+```txt
+[x] Sumar clientes internacionales, no solo locales
+[x] Meterme más a fondo en backend y arquitectura de sistemas
+[x] Cerrar un proyecto mobile propio en Kotlin de punta a punta
+[x] Aportar a algún proyecto open source
+[ ] Dar el salto a un rol Full Stack Senior
+```
 
 ---
 
