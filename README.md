@@ -37,6 +37,15 @@ problema de la forma más simple posible.
 
 ---
 
+### `$ ps aux | grep working_on`
+
+```txt
+🚧 Full Stack Developer en LUN — trabajando bajo metodología Scrum,
+   con tickets gestionados en Jira y ciclos de sprint.
+```
+
+---
+
 ### `$ ls stack/`
 
 <table width="100%">
