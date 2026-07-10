@@ -1,6 +1,6 @@
 <!-- ======================= HEADER (capsule-render) ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2b2b2b&height=170&section=header&text=FRANNKODE&fontSize=54&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=72&descSize=16&descColor=b0b0b0" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=170&section=header&text=FRANNKODE&fontSize=54&fontColor=111111&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=72&descSize=16&descColor=6e6e6e" alt="Header banner" />
 </p>
 
 <!-- ======================= TYPING (readme-typing-svg) ======================= -->
@@ -110,12 +110,6 @@
 <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Frannkode&theme=github" /></td>
 </tr>
 </table>
-
-**Snake animation** — se genera con el GitHub Action de más abajo 👇
-
-<p align="center">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/Frannkode/Frannkode/output/github-snake.svg" />
-</p>
 
 ---
 
