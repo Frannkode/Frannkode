@@ -123,10 +123,10 @@ problema de la forma más simple posible.
 
 ### `$ cat roadmap_2026.md`
 
-- [ ] Sumar clientes internacionales, no solo locales
-- [ ] Meterme más a fondo en backend y arquitectura de sistemas
-- [ ] Cerrar un proyecto mobile propio en Kotlin de punta a punta
-- [ ] Aportar a algún proyecto open source
+- [x] Sumar clientes internacionales, no solo locales
+- [x] Meterme más a fondo en backend y arquitectura de sistemas
+- [x] Cerrar un proyecto mobile propio en Kotlin de punta a punta
+- [x] Aportar a algún proyecto open source
 - [ ] Dar el salto a un rol Full Stack Senior
 
 ---
