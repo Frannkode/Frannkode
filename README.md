@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-SCALABILITY-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MINDSET-PERFORMANCE-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN-lightgrey?style=for-the-badge&labelColor=lightgrey" />
+  <img src="https://img.shields.io/badge/FOCUS-SCALABILITY-lightgrey?style=for-the-badge&labelColor=lightgrey" />
+  <img src="https://img.shields.io/badge/MINDSET-PERFORMANCE-lightgrey?style=for-the-badge&labelColor=lightgrey" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-lightgrey?style=for-the-badge&labelColor=lightgrey" />
 </p>
 
 <p align="center">
-  <a href="mailto:poncefrancomiguel@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tecfrancoponce"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://frannkode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:poncefrancomiguel@gmail.com"><img src="https://img.shields.io/badge/Email-lightgrey?style=flat-square&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/tecfrancoponce"><img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://frannkode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-lightgrey?style=flat-square&logo=vercel&logoColor=black" /></a>
 </p>
 
 <div align="center">
@@ -137,5 +137,5 @@
 <p align="center">BUILDING • OPTIMIZING • SCALING</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frannkode&color=111111&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Frannkode&color=lightgrey&style=flat-square&label=Profile+Views" />
 </p>
