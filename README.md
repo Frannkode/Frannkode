@@ -130,14 +130,8 @@
 ---
 
 <!--
-  EXTRAS OPCIONALES — necesitan que conectes tu propia cuenta a cada servicio.
-  Descomentá y completá cuando los tengas configurados.
-
-  ## Now Playing (Spotify)
-  <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_UID&cover_image=true&theme=default&show_offline=false&background_color=ffffff" /></p>
-
-  ## Coding Time (WakaTime)
-  (sección gestionada por la GitHub Action de WakaTime, usa los marcadores de sección START_SECTION:waka / END_SECTION:waka)
+  EXTRAS OPCIONALES — solo necesitan tu username público, sin login.
+  Descomentá y completá cuando quieras activarlos.
 
   ## LeetCode
   <p align="center"><img src="https://leetcard.jacoblin.cool/TU_USUARIO?theme=light&font=JetBrains%20Mono&ext=activity" /></p>
