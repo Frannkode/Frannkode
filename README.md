@@ -46,6 +46,23 @@ problema de la forma más simple posible.
 
 ---
 
+### `$ neofetch`
+
+```txt
+┌───────────────────────────────────────────────┐
+│ franco@github                                 │
+│ ───────────────────────────────────────────── │
+│ OS        : still.debugging(life)             │
+│ Editor    : VS Code                           │
+│ Languages : JS · TS · Python · Java/Kotlin    │
+│ Currently : Full Stack Dev @ LUN (Scrum/Jira) │
+│ Status    : open to freelance work            │
+│ Uptime    : since my first console.log()      │
+└───────────────────────────────────────────────┘
+```
+
+---
+
 ### `$ ls stack/`
 
 <table width="100%">
