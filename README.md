@@ -1,3 +1,5 @@
+<!-- si estás leyendo esto en el código fuente, hola: soy Franco, busco laburo remoto/freelance. Escribime a poncefrancomiguel@gmail.com -->
+
 <!-- ======================= HEADER ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=170&section=header&text=~/franco-ponce&fontSize=42&fontColor=39FF14&fontAlignY=45&desc=%24%20whoami%20%E2%86%92%20full-stack%20developer&descAlignY=68&descSize=16&descColor=58A6FF&animation=fadeIn" alt="Header banner" />
@@ -18,6 +20,14 @@
   <a href="https://www.linkedin.com/in/tecfrancoponce/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://frannkode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/francoponce0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://frannkode.vercel.app">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&margin=10&color=39FF14&bgcolor=0D1117&data=https://frannkode.vercel.app" alt="QR al portfolio" />
+  </a>
+  <br/>
+  <sub>📱 escaneá para ver el portfolio</sub>
 </p>
 
 ---
