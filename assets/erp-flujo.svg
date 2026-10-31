@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 318" width="900" height="318" role="img" aria-labelledby="t d">
+  <title id="t">Cómo se conecta el ERP</title>
+  <desc id="d">Producción, stock, contabilidad, impuestos y reportes, conectados en una sola cadena. Alrededor: tesorería, sueldos, socios, precios, reparto e integraciones.</desc>
+  <style>.sans { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+  <rect width="900" height="318" rx="16" fill="#14213D"/>
+  <text x="49" y="36" class="sans" font-size="15" fill="#C9D2EA">De la planta a los reportes, todo conectado</text>
+  <rect x="49" y="58" width="138" height="162" rx="10" fill="#F3F5F8"/>
+  <text x="65" y="94" class="sans" font-size="16" font-weight="800" fill="#16203A">Producción</text>
+  <line x1="65" y1="106" x2="89" y2="106" stroke="#3342C9" stroke-width="3" stroke-linecap="round"/>
+  <text x="65" y="132" class="sans" font-size="12.5" fill="#3A4766">Quesería y faena</text>
+  <text x="65" y="150" class="sans" font-size="12.5" fill="#3A4766">Chacinados</text>
+  <text x="65" y="168" class="sans" font-size="12.5" fill="#3A4766">Alimentos</text>
+  <text x="65" y="186" class="sans" font-size="12.5" fill="#3A4766">Fórmulas y mermas</text>
+  <path d="M192 139 H206 M201 134 L206 139 L201 144" fill="none" stroke="#9DB0FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="215" y="58" width="138" height="162" rx="10" fill="#F3F5F8"/>
+  <text x="231" y="94" class="sans" font-size="16" font-weight="800" fill="#16203A">Stock</text>
+  <line x1="231" y1="106" x2="255" y2="106" stroke="#3342C9" stroke-width="3" stroke-linecap="round"/>
+  <text x="231" y="132" class="sans" font-size="12.5" fill="#3A4766">Trazabilidad por</text>
+  <text x="231" y="150" class="sans" font-size="12.5" fill="#3A4766">lote</text>
+  <text x="231" y="168" class="sans" font-size="12.5" fill="#3A4766">Stock contable</text>
+  <text x="231" y="186" class="sans" font-size="12.5" fill="#3A4766">y operativo</text>
+  <text x="231" y="204" class="sans" font-size="12.5" fill="#3A4766">Costeo FIFO</text>
+  <path d="M358 139 H372 M367 134 L372 139 L367 144" fill="none" stroke="#9DB0FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="381" y="58" width="138" height="162" rx="10" fill="#F3F5F8"/>
+  <text x="397" y="94" class="sans" font-size="16" font-weight="800" fill="#16203A">Contabilidad</text>
+  <line x1="397" y1="106" x2="421" y2="106" stroke="#3342C9" stroke-width="3" stroke-linecap="round"/>
+  <text x="397" y="132" class="sans" font-size="12.5" fill="#3A4766">Partida doble</text>
+  <text x="397" y="150" class="sans" font-size="12.5" fill="#3A4766">Cierre de mes</text>
+  <text x="397" y="168" class="sans" font-size="12.5" fill="#3A4766">Conciliación</text>
+  <text x="397" y="186" class="sans" font-size="12.5" fill="#3A4766">bancaria</text>
+  <text x="397" y="204" class="sans" font-size="12.5" fill="#3A4766">Préstamos</text>
+  <path d="M524 139 H538 M533 134 L538 139 L533 144" fill="none" stroke="#9DB0FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="547" y="58" width="138" height="162" rx="10" fill="#F3F5F8"/>
+  <text x="563" y="94" class="sans" font-size="16" font-weight="800" fill="#16203A">Impuestos</text>
+  <line x1="563" y1="106" x2="587" y2="106" stroke="#3342C9" stroke-width="3" stroke-linecap="round"/>
+  <text x="563" y="132" class="sans" font-size="12.5" fill="#3A4766">Motor fiscal</text>
+  <text x="563" y="150" class="sans" font-size="12.5" fill="#3A4766">por operación</text>
+  <text x="563" y="168" class="sans" font-size="12.5" fill="#3A4766">Libro IVA</text>
+  <text x="563" y="186" class="sans" font-size="12.5" fill="#3A4766">Crédito fiscal</text>
+  <text x="563" y="204" class="sans" font-size="12.5" fill="#3A4766">Factura con CAE</text>
+  <path d="M690 139 H704 M699 134 L704 139 L699 144" fill="none" stroke="#9DB0FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="713" y="58" width="138" height="162" rx="10" fill="#F3F5F8"/>
+  <text x="729" y="94" class="sans" font-size="16" font-weight="800" fill="#16203A">Reportes</text>
+  <line x1="729" y1="106" x2="753" y2="106" stroke="#3342C9" stroke-width="3" stroke-linecap="round"/>
+  <text x="729" y="132" class="sans" font-size="12.5" fill="#3A4766">Dashboard</text>
+  <text x="729" y="150" class="sans" font-size="12.5" fill="#3A4766">Indicadores</text>
+  <text x="729" y="168" class="sans" font-size="12.5" fill="#3A4766">Margen y</text>
+  <text x="729" y="186" class="sans" font-size="12.5" fill="#3A4766">resultado</text>
+  <text x="729" y="204" class="sans" font-size="12.5" fill="#3A4766">Exportes CSV</text>
+  <line x1="49" y1="248" x2="851" y2="248" stroke="#9DB0FF" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="5 6"/>
+  <text x="49" y="274" class="sans" font-size="13" fill="#C9D2EA">Alrededor: tesorería y cheques, sueldos, socios, precios y márgenes, reparto,</text>
+  <text x="49" y="294" class="sans" font-size="13" fill="#C9D2EA">bancos, Google Calendar, y roles y permisos en todo el sistema.</text>
+</svg>
